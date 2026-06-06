@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe+Silva+Souza;I+study+information+systems+at+UFS;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://status-github-miyamura1101.vercel.app/api?username=Miyamura1101&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Silva Souza github stats"/> 
+  <img width="49%" height="195px" src="https://status-github-miyamura1101.vercel.app/api?username=Felipesou1101&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Silva Souza github stats"/> 
   
-  <img width="41%" height="195px" src="https://status-github-miyamura1101.vercel.app/api/top-langs/?username=Miyamura1101&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&include_all_commits=false" alt="Felipe Silva Souza github Linguagens"/>
+  <img width="41%" height="195px" src="https://status-github-miyamura1101.vercel.app/api/top-langs/?username=Felipesou1101&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&include_all_commits=false" alt="Felipe Silva Souza github Linguagens"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miyamura1101&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipesou1101&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
