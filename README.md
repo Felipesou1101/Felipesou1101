@@ -8,8 +8,6 @@
   <img width="41%" height="195px" src="https://status-github-miyamura1101.vercel.app/api/top-langs/?username=Felipesou1101&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&include_all_commits=true" alt="Felipe Silva Souza github Linguagens"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipesou1101&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
